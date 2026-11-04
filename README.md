@@ -22,22 +22,22 @@ Everything is in one notebook, [`isp_field_ops_analysis.ipynb`](isp_field_ops_an
 
 ### Key charts
 
-![Recognized vs at-risk revenue by week](images/01_recognized_vs_at_risk_revenue.png)
+![Recognized vs at-risk revenue by week](isp-field-ops-analytics/images/01_recognized_vs_at_risk_revenue.png)
 
-![Weekly revenue, expenses and profit](images/02_weekly_revenue_expenses_profit.png)
+![Weekly revenue, expenses and profit](isp-field-ops-analytics/images/02_weekly_revenue_expenses_profit.png)
 
-![Backlog trend](images/03_backlog_trend.png)
+![Backlog trend](isp-field-ops-analytics/images/03_backlog_trend.png)
 
 <details>
 <summary>More charts</summary>
 
-![Distribution of resolution times](images/04_resolution_time_distribution.png)
+![Distribution of resolution times](isp-field-ops-analytics/images/04_resolution_time_distribution.png)
 
-![Engineer net contribution](images/05_engineer_net_contribution.png)
+![Engineer net contribution](isp-field-ops-analytics/images/05_engineer_net_contribution.png)
 
-![Regional comparison](images/06_regional_comparison.png)
+![Regional comparison](isp-field-ops-analytics/images/06_regional_comparison.png)
 
-![Engineer risk matrix](images/07_engineer_risk_matrix.png)
+![Engineer risk matrix](isp-field-ops-analytics/images/07_engineer_risk_matrix.png)
 
 </details>
 
